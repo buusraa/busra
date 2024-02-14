@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Limon Jöleli Muhallebi </title>
+    <a href="kod.css"></a>
+</head>
+<body>
+ 
+    <nav   class="text-red">  LİMON JÖLELİ MUHALLEBİ  </nav>
+    <p >Limon jöleli muhallebi tarifinde, limonun ferahlatan kokusu ve lezzeti, muhallebiye mayhoş dokunuş veriyor, lezzetine lezzet katıyor. Çay saatlerine de davetlere de yakışan bu tatlı için haydi sizi mutfağa alalım!</p>
+    <p> Tarif : Triaevents </p>
+  <aside>
+ <figure>
+    <img src="https://i.nefisyemektarifleri.com/2022/03/09/portakal-joleli-muhallebi-1.jpg" alt="LİMON JÖLELİ MUHALLEBİ "   class="sola-kaydır">
+ </figure>
+
+ </aside>
+   <ul style="font-size: medium; list-style-type: circle;">
+    <p>Limon jölesi için ;</p>
+    <li>3  adet büyük boy limon</li>
+    <li> 1 küçük çay bardağı şeker</li>
+    <li>1,5  su bardağı su </li>
+    <li>2 yemek kaşığı nişasta (tepeleme)</li>
+    
+   </ul>
+<ul style="font-size: medium; list-style-type: circle;">
+    <p> muhallebisi için ;</p>
+    <li>2,5 su bardağı süt</li>
+    <li> 2 yemek kaşığı un</li>
+    <li> 1  yemek kaşığımısır nişastası</li>
+    <li> 1/2  su bardağı şeker</li>
+    <li> 1 paket vanilin  </li>
+    <li>1/2 paket  krem şanti </li>
+</ul>
+
+
+
+
+ </section>
+
+
+
+
+
+
+
+</body>
+ 
